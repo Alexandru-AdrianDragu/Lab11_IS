@@ -1,0 +1,71 @@
+E1:a,b) nu sunt corecte deoarece Produs e o interfata, nu o clasa.
+c) nu e corect pentru ca Produs e o interfata, nu clasa.
+e) Clasa capitol nu defineste o compozitie cu clasa Carte, ci Carte defineste o compozitie cu clasa Capitol
+E2:a) Produs nu e clasa, e interfata
+b)Clasa revista implementeaza interfata, nu vice versa
+c)e corect, dar are typo in pdf
+d)Trebuie implementata in clasa revista, deci nu e corect scrisa 
+e)Nu e protected deoarece e pus cu + in diagrama, nu cu #
+f)corect
+g)E de tip void, nu Produs
+E3: a)corect
+b)tipul de date inaintea numelui variabile => gresit
+c)corect
+d)gresit, e public nu private
+e)lipseste tipul de date
+f)nu e generalizare, deci fara extends
+g)corect
+h)e relatie de compozitie, nu de asociere
+E4: a) Clasa Student bursier mosteneste clasa Student, nu invers
+b) Corect
+c) Atributul e privat, nu public
+d) Corect
+e) E publica, nu privata
+f) Corect
+E5: a)Nu e generalizare, deci extends nu e corect
+b)Corect
+c)Asocierea e unidimensionala, in partea opusa
+d)Nu este o relatie de agregare intre cele 2 clase
+E6: a) Corect
+b) Relatia e unidimensionala, nu bidimensionala
+c) Relatia dintre cele 2 clase e de compozitie, nu de mostenire
+d) Relatia este de compozitie, nu de agregare
+e) Corect
+E7:a) Nu e relatie de mostenire => fara extends
+b) la fel ca la a)
+c) Corect
+d) Clasa Materie defineste o compozitie de obiecte, nu clasa Laborator
+e) Clasa Matereie defineste o compozitie de obiecte, nu o agregare
+E8:a) Nu este agregare intre Materie si Test, ci compozitie
+b) Nu e agregare intre Materie si Test, ci compozitie
+c) Clasa Materie nu e superclasa clasei Test 
+d) Corect
+e) Nu e mostenire, ci agregare
+E9: a) Nu e extends, ci implement, Produs fiind interfata, nu clasa.
+b) corect
+c) eroare de sintaxa
+d)Lipseste implementarea clasei Pret()
+e)corect
+f)numele gresit de functie
+g)corect
+h)Nu e de tip Produs, ci void
+i)corect
+E10:a) O clasa cu metode abstracte trebuie sa fie ,la randul ei, abstracta
+b)Corect
+c)Metodele abstracte nu au implementare in clasa
+d)Tipul metodei e float, nu void
+E11: a)Corect
+b)Nu e corect, deoarece clasa angajat nu e implementare
+c)Lipseste implementarea
+d)Corect
+E12: a)Este relatie de asociere, nu mostenire
+b) Lipseste static
+c) Corect
+d) Corect
+e) Corect
+f) Nu e static
+E13: a)Clasa Proiect definseste agregatul, nu Student
+b) Proiect defineste agregat Student, nu compozitie
+c) Corect
+d) Proiect defineste agregat Student, nu compozitie
+e) Corect
